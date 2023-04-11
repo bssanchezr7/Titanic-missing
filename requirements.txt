@@ -1,0 +1,6 @@
+missingno
+numpy
+matplotlib==3.5.1
+pandas
+seaborn
+upsetplot==0.6.1
